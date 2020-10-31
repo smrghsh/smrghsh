@@ -9,7 +9,7 @@ I am currently engaged in a dharmic battle with my greatest enemy: `javascript t
 
 😄 they/them
 
-⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia) which is anecdotal evidence for why syntax highlighting helps us code faster!
+⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia) which is anecdotal neuroscience evidence for why syntax highlighting helps us code faster!
 
 🤫 Dirty little secret: I'm ranked platinum in TFT and S+ in Splatoon 2
 
