@@ -3,7 +3,7 @@ I work at the Ahmanson Lab at USC where I run a makerspace, teach workshops, and
 
 I am currently engaged in a dharmic battle with my greatest enemy: `javascript that I wrote myself`
 
-🌱 Currently grinding on webGL projects for generative art and visualizations for linguistics and neuroscience. 
+🌱 Currently grinding on webGL projects for generative art and front end web apps for linguistics and neuroscience. 
 
 📫 mail@samir.tech
 
