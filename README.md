@@ -9,7 +9,7 @@ I am currently engaged in a dharmic battle with my greatest enemy: `javascript t
 
 😄 they/them
 
-🗣:🇰🇷🇫🇷
+🗣 🇰🇷안녕! 🇫🇷salut!
 
 ⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia) which is anecdotal neuroscience evidence for why syntax highlighting helps us code faster!
 
