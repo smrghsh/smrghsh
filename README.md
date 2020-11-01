@@ -1,4 +1,5 @@
 ## `print('hello world!')`
+![so pretty](/test2.gif)
 I work at the Ahmanson Lab at USC where I run a makerspace, teach workshops, and do cool things.
 
 Currently engaged in a dharmic battle with my greatest enemy: `javascript that I wrote myself`
