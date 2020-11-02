@@ -8,7 +8,7 @@ Currently engaged in a dharmic battle with my greatest enemy: `javascript that I
 
 🌱 grinding on webGL projects for generative art and some neuro and linguistics research
 
-🌐 [http://samir.tech](samir.tech)
+🌐 [samir.tech](http://samir.tech)
 
 📫 mail@samir.tech
 
