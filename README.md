@@ -8,13 +8,15 @@ Currently engaged in a dharmic battle with my greatest enemy: `javascript that I
 
 🌱 grinding on webGL projects for generative art and some neuro and linguistics research
 
+🌐 [http://samir.tech](samir.tech)
+
 📫 mail@samir.tech
 
 😄 they/them
 
 🗣 🇰🇷안녕! 🇫🇷salut!
 
-⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia) which is anecdotal neuroscience evidence for why syntax highlighting helps us code faster!
+⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia)
 
 🤫 Dirty little secret: I'm ranked platinum in TFT 
 
