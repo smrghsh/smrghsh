@@ -1,4 +1,4 @@
-## জাভাস্ক্রিপ্ট
+## `print('hello world!`)
 
 ![so pretty](/test2.gif)
 
