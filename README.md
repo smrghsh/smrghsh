@@ -10,7 +10,7 @@ Currently engaged in a dharmic battle with my greatest enemy: `javascript that I
 
 🌐 [samir.tech](http://samir.tech)
 
-📫 mail@samir.tech
+📫 hello@samir.tech
 
 😄 they/them
 
