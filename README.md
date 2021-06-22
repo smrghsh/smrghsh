@@ -2,22 +2,18 @@
 
 ![so pretty](/test2.gif)
 
-I work at the Ahmanson Lab at USC where I run a makerspace, teach workshops, and do cool things.
+I run a small makerspace+VR dev facility and teach fun workshops at USC, and make graphics with generative art techniques.
 
-Currently engaged in a dharmic battle with my greatest enemy: `javascript that I wrote myself`
+I've been posting my creative work to social media, so connect with me over there 😊
+[insta](http://instagram.com/vertex.shader/)
+[twitter](http://twitter.com/smrghsh)
 
-🌱 grinding on webGL projects for generative art and some neuro and linguistics research
+🌱 webGL, webXR
 
 🌐 [samir.tech](http://samir.tech)
 
 📫 hello@samir.tech
 
-😄 they/them
-
 🗣 🇰🇷안녕! 🇫🇷salut!
 
 ⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme–color_synesthesia)
-
-🤫 Dirty little secret: I'm ranked platinum in TFT 
-
-vim > emacs
