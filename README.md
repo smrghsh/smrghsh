@@ -1,4 +1,5 @@
-I'm pursuing a PhD and researching VR at the [SET Lab](https://setlab.soe.ucsc.edu/news.php), advised by Katherine Isbister. 
+# I'm pursuing a PhD and researching VR at the [SET Lab](https://setlab.soe.ucsc.edu/news.php), advised by Katherine Isbister. 
+![so pretty](/test2.gif)
 
 I use web-browser based tools and AI-art for creative code, WebXR development, and VR content.
 🌱 [three.js](https://threejs.org/) and [hubs](https://hubs.mozilla.com/)
