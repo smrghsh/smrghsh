@@ -1,5 +1,4 @@
-#### I'm pursuing a PhD and researching VR at the [SET Lab](https://setlab.soe.ucsc.edu/news.php), advised by Katherine Isbister.
-I use web-browser and `javascript` based tools for creative code, WebXR development, and VR content. Sometimes, I use AI-based tools, demoscene strategies, engines, or 3D modeling softwares.
+I use web-browser and `javascript` based tools for creative code, WebXR development, and VR content. Sometimes, I use AI-based tools, demoscene strategies, engines, or 3D modeling softwares. Currently, I'm pursuing a PhD and researching multi-user VR software at 
 
 🌱 [three.js](https://threejs.org/) and [Mozilla Hubs](https://hubs.mozilla.com/)
 
