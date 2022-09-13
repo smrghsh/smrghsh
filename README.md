@@ -12,4 +12,4 @@ I use web-browser and `javascript` based tools for creative code, WebXR developm
 
 🎨 [generative art](https://www.instagram.com/vertex.shader/)
 
-😂 [coder meme page](https://www.tiktok.com/@vertexshader)
+😂 [meme collection](https://www.tiktok.com/@vertexshader)
