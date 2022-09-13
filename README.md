@@ -10,8 +10,6 @@ I use web-browser and `javascript` based tools for creative code, WebXR developm
 
 🗣 🇰🇷안녕! 🇫🇷salut!
 
-⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme%E2%80%93color_synesthesia) so coding is a trip 🌈
-
 🎨 [generative art](https://www.instagram.com/vertex.shader/)
 
 😂 [meme collection](https://www.tiktok.com/@vertexshader)
