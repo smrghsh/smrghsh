@@ -1,4 +1,4 @@
-#### I'm pursuing a PhD and researching VR at the [SET Lab](https://setlab.soe.ucsc.edu/news.php), advised by Katherine Isbister. 
+#### I'm pursuing a PhD and researching VR at the [SET Lab](https://setlab.soe.ucsc.edu/news.php), advised by Katherine Isbister.
 I use web-browser and `javascript` based tools and AI-art for creative code, WebXR development, and VR content.
 
 🌱 [three.js](https://threejs.org/) and [Mozilla Hubs](https://hubs.mozilla.com/)
@@ -11,5 +11,6 @@ I use web-browser and `javascript` based tools and AI-art for creative code, Web
 
 ⚡ Fun fact: I have [grapheme-color synesthesia](https://en.wikipedia.org/wiki/Grapheme%E2%80%93color_synesthesia) so coding is a trip 🌈
 
-vim > emacs
+🎨 [generative art](https://www.instagram.com/vertex.shader/)
 
+😂 [coder meme page](https://www.tiktok.com/@vertexshader)
