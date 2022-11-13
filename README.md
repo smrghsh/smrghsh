@@ -1,4 +1,4 @@
-I use web-browser and `javascript` based tools for creative code, WebXR development, and VR content. Currently researching multi-user VR software at the [SET Lab](https://setlab.soe.ucsc.edu/news.php) at UC Santa Cruz.
+I use web-browser and `javascript` based tools for creative code, WebXR development, and VR content. Currently researching multi-user VR software at the [SET Lab](https://setlab.soe.ucsc.edu/news.php).
 
 ***
 
