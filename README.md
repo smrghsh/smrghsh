@@ -7,6 +7,6 @@ Before my current position, I worked at the [Ahmanson Lab](https://polymathic.us
 
 ***
 
-🎨 Here's my insta: [generative art](https://www.instagram.com/vertex.shader/)
+🎨 [generative art](https://www.instagram.com/vertex.shader/)
 
-😂 I collect memes on TikTok: [meme collection](https://www.tiktok.com/@vertexshader)
+😂 [meme collection](https://www.tiktok.com/@vertexshader)
