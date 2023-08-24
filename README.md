@@ -5,5 +5,7 @@ I specialize in WebXR development such as [Mozilla Hubs](https://hubs.mozilla.co
 
 Before my current position, I worked at the [Ahmanson Lab](https://polymathic.usc.edu/ahmanson-lab) where I managed a makerspace and produced AR and VR technologies for the humanities-- coordinating and contributing to game engine, web, and mobile development teams.
 ***
+***
+***
 
 
