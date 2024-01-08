@@ -1,5 +1,5 @@
 # `hello world!`
-I'm a VR researcher focused on multi-user scientific and engineering interfaces. I work out of the [SET Lab](https://setlab.soe.ucsc.edu/) as PhD student at UC Santa Cruz. 🌊🌲 
+I'm a VR researcher focused on the design and validation of multi-user scientific and engineering interfaces. I work out of the [SET Lab](https://setlab.soe.ucsc.edu/) as PhD student at UC Santa Cruz. 🌊🌲 
 
 I specialize in WebXR development and [three.js](https://threejs.org/) applications. WebGL, WebXR, and WebRTC and their related technologies inform my work. I owe a lot to creative code communities, such as the [p5.js](https://p5js.org/) community, and support from the creative code collective.
 
