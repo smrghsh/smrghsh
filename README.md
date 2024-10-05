@@ -1,4 +1,4 @@
-# `hello world!`
+# `"hello world!"`
 I'm a VR researcher focused on the human computer interaction of multi-user scientific and engineering interfaces. I work out of the [SET Lab](https://setlab.soe.ucsc.edu/) as PhD student at UC Santa Cruz where I'm practicing design research and validation. 🌊🌲 
 
 I specialize in WebXR development and [three.js](https://threejs.org/) applications especially those that involve 3D interfaces, networking code, and scalability.
