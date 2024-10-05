@@ -10,7 +10,7 @@ Before my current position, I worked at the [Ahmanson Lab](https://polymathic.us
 Feel free to send an email or reach out on socials about this topic.
 
 ---------------------------------
-Santa Cruz community residents, please reach out about local creative code collective meetup.
+Santa Cruz County community, please reach out about local creative code collective meetup.
 
 Bay Area folk interested in VR, please reach out about local industry association.
 ***
