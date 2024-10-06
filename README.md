@@ -11,7 +11,7 @@ Feel free to send an email or reach out on socials about this topic.
 
 ***
 
-🏄 Santa Cruz artists and coders, please reach out about local creative code collective meetup.
+🏄 Santa Cruz artists and coders, please reach out about local creative code collective meetup
 
-🕶️ Bay Area folk interested in VR projects, please reach out about local industry association.
+🕶️ Bay Area folk interested in VR projects, please reach out about local industry association
 
