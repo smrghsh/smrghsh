@@ -1,4 +1,4 @@
-# `"hello world!" (updated January 2026)`
+# `"hello world!"`
 ![coral.png](coral.png)
 
 🪸 I'm a VR researcher focused on the human computer interaction of multi-user scientific and engineering interfaces. The coral image above is a cross-platform accessible gaussian splat render of a coral reef from Indonesia, using data from [wildflow.ai](https://wildflow.ai).
