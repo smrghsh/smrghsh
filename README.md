@@ -32,9 +32,9 @@
 
 🌸 such as the [p5.js](https://p5js.org/) community for mentorship and inspiration, 
 
-🌐 the Google Summer of Code program for teaching me how to contribute, 
+💛 the [Google Summer of Code](https://summerofcode.withgoogle.com/) program for teaching me how to contribute, 
 
-🎨 and the creative code collective for opportunities to organize and support. 
+🎨 and the [creative code collective](https://codecollective.org/) for opportunities to organize and support. 
 
 
 
