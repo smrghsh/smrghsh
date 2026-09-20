@@ -24,6 +24,8 @@
 
 🧊 especially with involve 3D interfaces, networking code, and scalability. 
 
+⭐️ I've had a long history of working with Unity, Unreal, and robotics too. 
+
 ✅ If you have a project that needs this specialty, let's talk.
 
 
