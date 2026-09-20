@@ -1,5 +1,5 @@
 ### `"hello world!"`
-<img margin="auto" height="200" alt="six-photos" src="https://github.com/user-attachments/assets/8134be71-97f5-44ad-a2ec-69f67bbb59cc" />
+<img width="757" height="247" alt="six-photos" src="https://github.com/user-attachments/assets/8134be71-97f5-44ad-a2ec-69f67bbb59cc" />
 
 
 🧑‍🔬 I'm a VR researcher and designer, prototyping VR applications for science. My journey has led me across many fields like civil engineering, coastal science, drone piloting, and marine science!
